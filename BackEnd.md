@@ -8,7 +8,7 @@
 
 ### MVC
 
-- [I built 10 web apps... with 10 different languages by Fireship.io](https://www.youtube.com/watch?v=FQPlEnKav48
+- [I built 10 web apps... with 10 different languages by Fireship.io](https://www.youtube.com/watch?v=FQPlEnKav48)
 
 
 #### Microservices
