@@ -45,8 +45,12 @@
 	* List
 	* Forms
 	* React Hoocks
-	* - [10 React Hooks Explained // Plus Build your own from Scratch](https://www.youtube.com/watch?v=TNhaISOUy6Q)
+		- [10 React Hooks Explained // Plus Build your own from Scratch](https://www.youtube.com/watch?v=TNhaISOUy6Q)
 	
+### Advanced
+
+- [Deconstructing React || Tejas Kumar](https://youtu.be/f2mMOiCSj5c)
+
 ### Extras :
  	* Material UI , tailwind css, Redux,graphQL
 
