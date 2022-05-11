@@ -6,6 +6,10 @@
 - [REST Architecture by RedHat](https://www.redhat.com/en/blog/rest-architecture)
 - [MVC: Model, View, Controller by Code Academy](https://www.codecademy.com/article/mvc)
 
+### MVC
+
+- [I built 10 web apps... with 10 different languages by Fireship.io](https://www.youtube.com/watch?v=FQPlEnKav48)
+
 
 #### Microservices
 
