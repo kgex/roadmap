@@ -4,53 +4,49 @@
 <details>
 <summary>1. C and C++ programming</summary>
 <br>
-- Hello World
-- Variables
-- Data Types
-- Operators
-- Loops
-- Functions
-- Arrays
-- Pointers
-- Structures
-- Files
-- Classes
-- Objects
-- Inheritance
-- Polymorphism
-- Encapsulation
-- Exception Handling
-- Recursion
+1 Hello World<br>
+2 Variables<br>
+3 Data Types<br>
+4 Operators<br>
+5 Loops<br>
+6 Functions<br>
+7 Arrays<br>
+8 Pointers<br>
+9 Structures<br>
+10 Files<br>
 </details>
+
 <details>
 <summary>2. Basic Circuits</summary>
 <br>
-
-- List the basic circuits topics for beginners
-- What is a circuit?
-- What is a resistor?
-- What is a capacitor?
-- What is an inductor?
-
+1 List the basic circuits topics for beginners<br>
+2 What is a circuit?<br>
+3 What is a resistor?<br>
+4 What is a capacitor?<br>
+5 What is an inductor?<br>
 </details>
+
+
 <details>
 <summary>3. Basic Embedded Systems</summary>
 <br>
-- Embedded Systems
-- GPIOS
-- PWM
-- ADC
-- DAC
-- DMA
-- UART
-- SPI
-- I2C
-- I2S
-- CAN
-- Ethernet
-- SDIO
-- USB
+1 Embedded Systems<br>
+2 GPIOS<br>
+3 PWM<br>
+4 ADC<br>
+5 DAC<br>
+6 DMA<br>
+7 UART<br>
+8 SPI<br>
+9 I2C<br>
+10 I2S<br>
+11 CAN<br>
+12 Ethernet<br>
+13 SDIO<br>
+14 USB<br>
 </details>
+
+
 <details>
 <summary>4. Sensor and Actuator Interface </summary>
 <br>
@@ -58,18 +54,17 @@
 2. Temperature sensor<br>
 3. Humidity sensor<br>
 4. Pressure sensor<br>
-1. Light sensor<br>
-1. Accelerometer<br>
-1. Gyroscope<br>
-1. Magnetometer<br>
-1. Ultrasonic sensor<br>
-1. Infrared sensor<br>
-1. Sound sensor<br>
-1. Color sensor<br>
-1. Flame sensor<br>
-1. Gas sensor<br>
-1. Water sensor
-
+5. Light sensor<br>
+6. Accelerometer<br>
+7. Gyroscope<br>
+8. Magnetometer<br>
+9. Ultrasonic sensor<br>
+10. Infrared sensor<br>
+11. Sound sensor<br>
+12. Color sensor<br>
+13. Flame sensor<br>
+14. Gas sensor<br>
+15. Water sensor
 </details>
 
 
@@ -78,6 +73,42 @@
 
 
 ### Intermediate
+
+
+<details>
+<summary>1. classes C and C++</summary>
+<br>
+1. Classes<br>
+2. Objects<br>
+3 Inheritance<br>
+4 Polymorphism<br>
+5 Encapsulation<br>
+6 Exception Handling<br>
+7 Recursion<br>
+8 oops-concept
+</details>
+
+
+<details>
+<summary>2. Circuits and Electronics  </summary>
+<br>
+
+1 Lumped circuit elements<br>
+2 KVL<br>
+3 KCL<br>
+4 Nodal analysis<br>
+5 Linearity<br>
+6 Superposition<br>
+7 Thevenin & Norton methods<br>
+8 Digital abstraction<br>
+9 Digital logic<br>
+10 Combinational gates<br>
+11 MOSFET switch<br>
+12 Nonlinear resistors<br>
+13 Small signal analysis<br>
+14 small signal circuit model<br>
+15 dependent sources<br>
+
 
 
 
@@ -113,3 +144,4 @@
 ### Frontend and dashboarding
 
 -[Thingsboard](https://thingsboard.io)
+
