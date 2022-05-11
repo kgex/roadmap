@@ -1,3 +1,95 @@
+### Beginner
+
+
+<details>
+<summary>1. C and C++ programming</summary>
+<br>
+- Hello World
+- Variables
+- Data Types
+- Operators
+- Loops
+- Functions
+- Arrays
+- Pointers
+- Structures
+- Files
+- Classes
+- Objects
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Exception Handling
+- Recursion
+</details>
+<details>
+<summary>2. Basic Circuits</summary>
+<br>
+
+- List the basic circuits topics for beginners
+- What is a circuit?
+- What is a resistor?
+- What is a capacitor?
+- What is an inductor?
+
+</details>
+<details>
+<summary>3. Basic Embedded Systems</summary>
+<br>
+- Embedded Systems
+- GPIOS
+- PWM
+- ADC
+- DAC
+- DMA
+- UART
+- SPI
+- I2C
+- I2S
+- CAN
+- Ethernet
+- SDIO
+- USB
+</details>
+<details>
+<summary>4. Sensor and Actuator Interface </summary>
+<br>
+1. Sensor and Actuator Interface<br>
+2. Temperature sensor<br>
+3. Humidity sensor<br>
+4. Pressure sensor<br>
+1. Light sensor<br>
+1. Accelerometer<br>
+1. Gyroscope<br>
+1. Magnetometer<br>
+1. Ultrasonic sensor<br>
+1. Infrared sensor<br>
+1. Sound sensor<br>
+1. Color sensor<br>
+1. Flame sensor<br>
+1. Gas sensor<br>
+1. Water sensor
+
+</details>
+
+
+
+
+
+
+### Intermediate
+
+
+
+
+### Advanced
+
+
+
+
+
+
+
 ### IoT Learning Roadmaps and Resources
 
 -[C programming basics and fundamentals](https://www.youtube.com/user/mycodeschool)
