@@ -14,7 +14,8 @@
 8 Pointers<br>
 9 Structures<br>
 10 Files<br>
-</details>
+</details> 
+
 
 <details>
 <summary>2. Basic Circuits</summary>
@@ -76,7 +77,7 @@
 
 
 <details>
-<summary>1. classes C and C++</summary>
+<summary>1. OOPs </summary>
 <br>
 1. Classes<br>
 2. Objects<br>
@@ -108,40 +109,201 @@
 13 Small signal analysis<br>
 14 small signal circuit model<br>
 15 dependent sources<br>
+</details>
+
+<details>
+<summary>3. Embedded systems </summary>
+<br>
+1 Processor Architecture - LPC214X<br>
+2 AVR<br>
+3 ARM<br>
+4 ATmega<br>
+5 PCB designing - Eagle,Solidworks,Altium <br>
+6 RTOS<br>
+7 IoT Operating Systems<br>
+    <ul>
+    <li>RIOT</li>
+    <li>Contiki & Cooja</li>
+    <li>TinyOS</li>
+    <li>MyNewt</li>
+    <li>Raspbian</li>
+    <li>Mongoose</li>
+    <li>ARMmbed</li>
+    <li>FreRTOS</li>
+    <li>Zerynth</li> </ul>
+</details>
 
 
+<details>
+<summary>4. Communication Protocols and Networking </summary>
+<br>
+1 OSI Layers<br>
+2 TCP/IP<br>
+3 HTTP<br>
+4 MQTT<br>
+5 CoAP<br>
+6 WiFi<br>
+7 Bluetooth - BLE<br>
+8 NFC - RFID<br>
+9 EspNow<br>
+10 Firebase<br>
+11 Blynk<br>
+12 IFTTT<br>
+</details>
 
 
 
 ### Advanced
 
+<details>
+<summary>1. Embedded Systems</summary>
+<br>
+1. Arduino Boards<br>
+2. RAspberry pi Boards<br>
+3. Sensor interface<br>
+        <ul>
+        <li>Analog Sensors</li>
+        <li>Digital Sensores</li>
+        </ul>
+4. STM - IoT discovery kit<br>
+5. Texas Sensor Tag<br>
+6. Edge Impulse  
+
+</details>
+
+
+<details>
+<summary>2. Networking and protocols</summary>
+<br>
+1. RAk and Lora
+  <ul>
+  <li>Chirpstack Gateway, Network, Application Server</li>
+  <li>Things Network </li>
+  </ul>
+ 2. 6LoWPAN<br>
+ 3. XMPP - CCN<br>
+ 4. Zigbee - Z Wave<br>
+ 5. WPAN(IEEE 802.15.4)<br>
+ 6. GSM<br>
+ 7. NB - IoT<br>
+ </details>
+
+
+<details>
+<summary>3. Cloud and Edge computing </summary>
+<br>
+1. Google IoT Core<br>
+
+</details>
+
+
+
+<details>
+<summary>4. Backend </summary>
+<br>
+1. Hasura<br>
+2. Nodejs<br>
+3. REST Services<br>
+4. Websockets - MQTT - AMQP<br>
+5. Database<br>
+     <ul>
+     <li>InfluxDB</li>
+     <li>MongoDB</li></ul>
+6. PostgreSQL<br>
+7. Python Flask<br>
+8. GraphQL
+
+
+</details>
+
+
+<details>
+<summary>5. Frontend </summary>
+<br>
+1. ThingsBoard<br>
+2. ReactJs<br>
+3. ChartJs<br>
+4. Grafana<br>
+</details>
 
 
 
 
 
 
-### IoT Learning Roadmaps and Resources
 
--[C programming basics and fundamentals](https://www.youtube.com/user/mycodeschool)
+### Problem Solving
 
 -[Hackerrank Problem solving](https://www.hackerrank.com/dashboard)
 
 -[leetcode problem solving](https://leetcode.com/interview/?gclid=CjwKCAjwsJ6TBhAIEiwAfl4TWEchXIkOkiHvvcqlky4RQakMj47JgxZIRwykNBW_y2VZFIVAW10KzRoCWb4QAvD_BwE)
 
-### Communication protocols and Networking
-
--[MQTT](https://mosquitto.org/)
-
--[Lorawan](https://www.youtube.com/watch?v=_pj143Pj_nE&list=PLxI06TjqRkodKNbzNlMzGpnyraOq5sZRp)
-
-### Backend and Cloud
-
--[Nodejs](https://nodejs.org/en/)
-
 -[Google IoT core](https://cloud.google.com/iot-core/?utm_source=google&utm_medium=cpc&utm_campaign=japac-IN-all-en-dr-bkws-all-all-trial-e-dr-1009882&utm_content=text-ad-none-none-DEV_c-CRE_248037276403-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Internet%20of%20Things%20~%20IoT%20Core_IOT-KWID_43700029827958913-aud-1596662390334%3Akwd-323286821031&userloc_1007810-network_g&utm_term=KW_google%20iot%20core&ds_rl=1264446&gclid=CjwKCAjwsJ6TBhAIEiwAfl4TWH7UMezN-kB0tlhuxTQX6JXe2Dt-4-8GoYTCwvKcctrOVjDg9PDctRoCkGoQAvD_BwE&gclsrc=aw.ds)
 
-### Frontend and dashboarding
 
--[Thingsboard](https://thingsboard.io)
+
+
+### Table for reference 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">TOPIC NAME </th>
+    <th class="tg-0pky">COURSE REFERENCE </th>
+    <th class="tg-0pky">VIDEO REFERENCE</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">C AND C++</td>
+    <td class="tg-0pky"> [Programiz - Syllabus for C amd C++] (https://programiz.pro/learn/master-c-programming?utm_source=landing-nav&utm_campaign=programiz&utm_medium=referral)</td>
+    <td class="tg-0pky">[C and C++ from Mycodeschool](https:/www.youtube.com/user/mycodeschool)</td>
+  </tr>
+
+  <tr>
+    <td class="tg-0pky">Python Flask, Hasura and GraphQL</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">(https://www.youtube.com/playlist?list=PLCPAHTKm5NrXSwEU4Hd6aW3yNa1q6BPcn)</td>
+  </tr>
+
+  <tr>
+    <td class="tg-0pky">MQTT </td>
+    <td class="tg-0pky">-[MQTT](https://mosquitto.org/)</td>
+    <td class="tg-0pky">(https://www.youtube.com/watch?v=EIxdz-2rhLs)</td>
+  </tr>
+
+  <tr>
+    <td class="tg-0pky">Rabbit MQ</td>
+    <td class="tg-0pky">(https://www.rabbitmq.com)</td>
+    <td class="tg-0pky">(https://www.youtube.com/watch?v=7rkeORD4jSw&list=WL&index=1)</td>
+  </tr>
+
+   <tr>
+    <td class="tg-0pky">RAk and Lora Lectures</td>
+    <td class="tg-0pky">(https://docs.rakwireless.com/Product-Categories/WisLink/RAK2245-Pi-HAT/Quickstart/#prerequisites)</td>
+    <td class="tg-0pky">(https://www.youtube.com/playlist?list=PLxI06TjqRkodKNbzNlMzGpnyraOq5sZRp)</td>
+  </tr>
+
+  <tr>
+    <td class="tg-0pky">Things Board</td>
+    <td class="tg-0pky">-[Thingsboard](https://thingsboard.io)</td>
+    <td class="tg-0pky"></td>
+  </tr>
+
+  <tr>
+    <td class="tg-0pky">EDx course on Circuits and Electronics</td>
+    <td class="tg-0pky">(https://www.edx.org/course/circuits-and-electronics-1-basic-circuit-analysi-2?index=product&queryID=59574d69abb355c34527fb0ac448b149&position=1)</td>
+    <td class="tg-0pky"></td>
+  </tr>
+
+</tbody>
+</table>
 
