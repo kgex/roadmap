@@ -7,31 +7,53 @@
 	* DNS and how does it work
 	* What is hosting
 ### Html
-	* Basics
-	* Forms
-
+- [Vedio](https://www.youtube.com/watch?v=kUMe1FH4CHE)	
+	* Tutorial --> https://www.w3schools.com/html/
+	
+## Html task	
+	* Form (with all input types)
+	
+	
 ### Css 
-	* Basics
-	* Responsive design and media query -> positioning , display , css grid , flex box
+- [Vedio](https://www.youtube.com/playlist?list=PL4-IK0AVhVjPRj8P56TtFX2hg33BlbT3x)
+	* Tutorial --> https://www.w3schools.com/css/
+	
+	
+### Css Task
+	* Build a house using html / css
+
 
 ### Javascript 
+- [Vedio](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+	* Tutorial --> https://www.w3schools.com/js/
 	* Syntax and basics concepts
 	* DOM manipulation
 	* Fetch API / ajax
 	* ES6 +
+	
+### Dom 
+- [vedio1](https://www.youtube.com/watch?v=v7rSSy8CaYE)
+- [vedio2](https://www.youtube.com/watch?v=y17RuWkWdn8)
+	* Tutorial --> https://www.w3schools.com/js/js_htmldom.asp
 
-### Github
+### Dom task
+	* Build Calender using html / css / js dom
+	* Build User task table using html / css / js dom / fetch(dummy api)
+
+### Github 
+- [vedio](https://www.youtube.com/watch?v=apGV9Kg7ics&t=3449s)
 
 ### Bootstrap 5
+- [vedio](https://www.youtube.com/watch?v=Jyvffr3aCp0)
+       * Documentation --> https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+### Bootstrap task 
+	* Build a static webpage using html / css / bootstrap
 
 ### Node 
 	* Npm
 	* Nvm
-
-
-
-
-
+	* https://nodejs.org/en/docs/
 
 
 ### ReactJs
